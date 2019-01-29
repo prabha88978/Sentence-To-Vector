@@ -1,4 +1,4 @@
-# Setence-To-Vector
+# Sentence-To-Vector
 
 When we give normal text to the Neural Network, the network can't understand the text. We are converting the normal text into system understandable format i.e., Word-to-Vector and Sentence-to-Vector.
 
